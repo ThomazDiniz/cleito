@@ -1,0 +1,1 @@
+audio_stop_sound(sfx_tutorial_tony_2);

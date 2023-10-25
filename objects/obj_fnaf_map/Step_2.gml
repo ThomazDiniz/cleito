@@ -1,0 +1,2 @@
+
+controles_restart();
