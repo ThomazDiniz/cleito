@@ -1,5 +1,3 @@
-///@description 
-
 if (global.should_draw_map){
 	draw_self();
 	if (global.map_selected == image_index) {

@@ -25,7 +25,6 @@ if (global.light_right && _light_2){
 	}
 }
 
-
 draw_sprite_ext(sprite_index,1,0,l_door_y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 draw_sprite_ext(sprite_index,2,0,r_door_y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 

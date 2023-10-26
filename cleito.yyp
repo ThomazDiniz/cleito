@@ -16,8 +16,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"cameras","folderPath":"folders/fnaf/cameras.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"rooms","folderPath":"folders/fnaf/rooms.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sounds","folderPath":"folders/fnaf/sounds.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sprites","folderPath":"folders/fnaf/sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"random_sounds","folderPath":"folders/fnaf/sounds/random_sounds.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sprites","folderPath":"folders/fnaf/sprites.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"gcmt-dll.dll","CopyToMask":0,"filePath":"datafiles/GMLive",},

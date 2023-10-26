@@ -30,11 +30,11 @@ repeat(_uso){
 	_px+=19;
 }
 
-var _uso_padrao = min(6,global.night*2)/10;
-global.fnaf_energia -= (_uso*.2 + _uso_padrao)/60;	
+var _uso_padrao = min(2,global.night)/10;
+global.fnaf_energia -= (_uso*.1 + _uso_padrao)/60;	
 
 
-if global.fnaf_energia <=0{
+if (global.fnaf_energia <= 0) {
 	global.should_draw_map=0;
 	instance_create_layer(room_width/2,room_height/2,"jumpscare",obj_fnaf_jumpscare,{image_index:3});
 }

@@ -4,8 +4,8 @@
     {"name":"cameras","order":14,"path":"folders/fnaf/cameras.yy",},
     {"name":"rooms","order":15,"path":"folders/fnaf/rooms.yy",},
     {"name":"sounds","order":16,"path":"folders/fnaf/sounds.yy",},
-    {"name":"sprites","order":17,"path":"folders/fnaf/sprites.yy",},
     {"name":"random_sounds","order":1,"path":"folders/fnaf/sounds/random_sounds.yy",},
+    {"name":"sprites","order":17,"path":"folders/fnaf/sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sfx_low_baladas","order":13,"path":"sounds/sfx_low_baladas/sfx_low_baladas.yy",},

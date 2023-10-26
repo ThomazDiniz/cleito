@@ -1,4 +1,3 @@
-
 alarm[0] = 140;
 
 image_xscale = 1;

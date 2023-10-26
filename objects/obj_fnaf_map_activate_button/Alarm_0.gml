@@ -1,7 +1,7 @@
 ///@description 
 
 
-alarm[0] = 60*49;
+alarm[0] = 60*32;
 global.fnaf_hora++;
 
 switch(global.fnaf_hora){
@@ -35,8 +35,7 @@ switch(global.fnaf_hora){
 		global.foxy.ai_lvl++;
 	break;
 	
-	case 6:
+	default:
 		instance_create_layer(0,0,"jumpscare",obj_fnaf_win);
-		
 	break;
 }

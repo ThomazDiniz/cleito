@@ -1,6 +1,4 @@
 ///@description 
-
-
 x=0;
 if (global.should_draw_map){
 	y*=.9;

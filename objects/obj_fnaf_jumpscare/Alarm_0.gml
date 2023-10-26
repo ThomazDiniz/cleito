@@ -1,2 +1,2 @@
 ///@description 
-room_restart();
+room_goto(rm_fnaf_menu);

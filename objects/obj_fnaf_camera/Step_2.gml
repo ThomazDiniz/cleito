@@ -116,5 +116,11 @@ if (global.debug){
 		global.freddy.decision_function(1);
 	}
 	
+	if keyboard_check_pressed(vk_backspace){
+		with(obj_fnaf_map_activate_button){
+			event_perform(ev_alarm,0);
+		}
+	}
+	
 	
 }
