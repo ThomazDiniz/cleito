@@ -31,7 +31,7 @@ repeat(_uso){
 }
 
 var _uso_padrao = min(2,global.night)/10;
-global.fnaf_energia -= (_uso*.1 + _uso_padrao)/60;	
+global.fnaf_energia -= (_uso*.15 + _uso_padrao)/60;	
 
 
 if (global.fnaf_energia <= 0) {
