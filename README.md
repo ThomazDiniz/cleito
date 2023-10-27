@@ -16,8 +16,10 @@ https://youtu.be/6YJKGC5vCY4
 Pegue uma versão atualizada do gamemaker (vou tentar deixar esse projeto sempre na versão mais autal do gamemaker até que atualizá-lo seja insustentável para mim). Você pode baixá-lo utilizando githubdesktop ou simplesmente baixar o projeto e adicioná-lo ao gamemaker.
 
 # Gostaria só de jogar?
-Itch.io:
-gamemaker: 
+
+Itch.io: https://zelun.itch.io/cleito
+
+gamemaker: https://gx.games/pt-br/games/k4yuxp/cleiton-um-seguranca-da-pesada-meme-fnaf-/
 
 Obrigado a todos, gostaria de apoiar? Siga nas minhas redes e assista meus vídeos. =)
 
