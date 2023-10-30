@@ -13,7 +13,7 @@ https://youtu.be/6YJKGC5vCY4
 
 
 # Rodando o projeto 
-Pegue uma versão atualizada do gamemaker (vou tentar deixar esse projeto sempre na versão mais autal do gamemaker até que atualizá-lo seja insustentável para mim). Você pode baixá-lo utilizando githubdesktop ou simplesmente baixar o projeto e adicioná-lo ao gamemaker.
+Pegue uma versão atualizada do gamemaker (vou tentar deixar esse projeto sempre na versão mais atual do gamemaker até que atualizá-lo seja insustentável para mim). Você pode baixá-lo utilizando githubdesktop ou simplesmente baixar o projeto e adicioná-lo ao gamemaker.
 
 # Gostaria só de jogar?
 
