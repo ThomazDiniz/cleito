@@ -1209,8 +1209,8 @@ function draw_text_outline_colour(_x,_y,str,c1=c_white,c2=c_white,c3=c_white,c4=
 		draw_set_colour(_colour);
 			draw_rectangle(_x,_y,_x+_w,_y+_h,0); 
 		font_set_align(fa_center,fa_middle);
-			draw_text_outline(_x+_w/2,_y+_h/2,_str);
-			
+			draw_text_outline(_x+_w/2,_y+_h/2,_str,c_black,c_white);
+		draw_set_colour(c_white);
 		return value;
 	}
 

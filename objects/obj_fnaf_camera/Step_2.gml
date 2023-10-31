@@ -121,6 +121,4 @@ if (global.debug){
 			event_perform(ev_alarm,0);
 		}
 	}
-	
-	
 }

@@ -27,4 +27,3 @@ function fnaf_play_sound_on_move(){
 }
 
 global.played_intro = 0;
-global.night = 0;

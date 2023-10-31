@@ -42,4 +42,11 @@ if (zbar_changed) {
 	audio_master_gain(global.volume_master);
 }
 
-
+if options_button(1400,800,"Jogue um de nossos \njogos na steam \npara nos apoiar! =)",400,240) {
+	url_open("https://store.steampowered.com/search/?publisher=zelun_");
+}
+if ((os_type == os_android)){
+	if options_button(500,1000,"POLÍTICA DE PRIVACIDADE",500,64) {
+		url_open("https://zelun.wordpress.com/cleito-privacy-policy/");
+	}
+}
