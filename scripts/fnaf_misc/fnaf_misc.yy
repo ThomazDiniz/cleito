@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "fnaf_misc",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "fnaf",
-    "path": "folders/fnaf.yy",
+  "$GMScript":"v1",
+  "%Name":"fnaf_misc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fnaf_misc",
+  "parent":{
+    "name":"fnaf",
+    "path":"folders/fnaf.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
