@@ -22,7 +22,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2023.8.2.108",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"cleito",
   "resources":[
@@ -31,6 +31,7 @@
     {"id":{"name":"obj_botao_luz_esquerda","path":"objects/obj_botao_luz_esquerda/obj_botao_luz_esquerda.yy",},},
     {"id":{"name":"obj_botao_porta_direita","path":"objects/obj_botao_porta_direita/obj_botao_porta_direita.yy",},},
     {"id":{"name":"obj_botao_porta_esquerda","path":"objects/obj_botao_porta_esquerda/obj_botao_porta_esquerda.yy",},},
+    {"id":{"name":"obj_cta","path":"objects/obj_cta/obj_cta.yy",},},
     {"id":{"name":"obj_fnaf_bg","path":"objects/obj_fnaf_bg/obj_fnaf_bg.yy",},},
     {"id":{"name":"obj_fnaf_camera","path":"objects/obj_fnaf_camera/obj_fnaf_camera.yy",},},
     {"id":{"name":"obj_fnaf_jumpscare","path":"objects/obj_fnaf_jumpscare/obj_fnaf_jumpscare.yy",},},
@@ -92,6 +93,7 @@
     {"id":{"name":"spr_cam_foxy","path":"sprites/spr_cam_foxy/spr_cam_foxy.yy",},},
     {"id":{"name":"spr_cam_smile","path":"sprites/spr_cam_smile/spr_cam_smile.yy",},},
     {"id":{"name":"spr_cam_troll","path":"sprites/spr_cam_troll/spr_cam_troll.yy",},},
+    {"id":{"name":"spr_cta_icons","path":"sprites/spr_cta_icons/spr_cta_icons.yy",},},
     {"id":{"name":"spr_fnaf_background","path":"sprites/spr_fnaf_background/spr_fnaf_background.yy",},},
     {"id":{"name":"spr_fnaf_botao_luz","path":"sprites/spr_fnaf_botao_luz/spr_fnaf_botao_luz.yy",},},
     {"id":{"name":"spr_fnaf_botao_porta","path":"sprites/spr_fnaf_botao_porta/spr_fnaf_botao_porta.yy",},},

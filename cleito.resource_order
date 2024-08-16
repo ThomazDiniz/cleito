@@ -8,6 +8,7 @@
     {"name":"sprites","order":17,"path":"folders/fnaf/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_cta","order":3,"path":"objects/obj_cta/obj_cta.yy",},
     {"name":"obj_fnaf_bg","order":1,"path":"objects/obj_fnaf_bg/obj_fnaf_bg.yy",},
     {"name":"obj_fnaf_camera","order":12,"path":"objects/obj_fnaf_camera/obj_fnaf_camera.yy",},
     {"name":"obj_fnaf_jumpscare","order":8,"path":"objects/obj_fnaf_jumpscare/obj_fnaf_jumpscare.yy",},
@@ -42,6 +43,7 @@
     {"name":"sfx_pare","order":6,"path":"sounds/sfx_pare/sfx_pare.yy",},
     {"name":"sfx_rapaz","order":1,"path":"sounds/sfx_rapaz/sfx_rapaz.yy",},
     {"name":"sfx_ratinhoooo","order":2,"path":"sounds/sfx_ratinhoooo/sfx_ratinhoooo.yy",},
+    {"name":"spr_cta_icons","order":1,"path":"sprites/spr_cta_icons/spr_cta_icons.yy",},
     {"name":"spr_fnag_pipe","order":6,"path":"sprites/spr_fnag_pipe/spr_fnag_pipe.yy",},
     {"name":"spr_pular_intro","order":5,"path":"sprites/spr_pular_intro/spr_pular_intro.yy",},
   ],
