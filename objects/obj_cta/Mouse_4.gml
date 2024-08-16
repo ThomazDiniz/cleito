@@ -11,5 +11,3 @@ switch(floor(image_index)){
 		url_open("https://www.twitch.tv/zelun_");
 	break;
 }
-
-show_message(image_index);
